@@ -21,10 +21,7 @@ theme:
         name: Switch to light mode
 nav:
   - Home: "index.md"
-  - Algemene Regels: "algemeneregels.md"
-  - Strafbepaling: "strafbepaling.md"
   - Algemene Plaatselijke Verordening: "apv.md"
-  - Belastingen: "belastingen.md"
-  - Het Wetboek: "Wetboek.md"
+  - Onderwereld Regels: "onderwereld.md"
 extra_css:
   - stylesheets/extra.css
