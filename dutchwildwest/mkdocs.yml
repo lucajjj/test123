@@ -23,5 +23,6 @@ nav:
   - Home: "index.md"
   - Algemene Plaatselijke Verordening: "apv.md"
   - Onderwereld Regels: "onderwereld.md"
+  - Overvallen: "overvallen.md"
 extra_css:
   - stylesheets/extra.css
