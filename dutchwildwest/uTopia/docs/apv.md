@@ -14,7 +14,8 @@ overlays of andere software die je voordelen geeft tegenover andere burgers.
 
 ### 1.4 Microfoon
 - Een goed werkende microfoon is verplicht als je de stad betreedt.
-1.5 Away from Keyboard (AFK)
+
+### 1.5 Away from Keyboard (AFK)
 - Ga niet AFK voor periodes langer dan tien minuten. Indien je AFK gaat doe dit dan op een plek waar niemand een roleplay scenario met je kan aangaan.
 
 ### 1.6 Random Deathmatch (RDM)
