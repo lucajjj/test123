@@ -20,8 +20,8 @@
     * Waarschuwingen
     * Taakstraffen
     * Celstraffen
-    * rijontzeggingen
-    * inbeslagnames of invorderingen
+    * Rijontzeggingen
+    * Inbeslagnames of invorderingen
     * Boetes
 2. Een opgelegde straf kan een combinatie zijn van de bovenstaande strafvormen.
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
