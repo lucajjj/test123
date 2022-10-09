@@ -22,8 +22,8 @@ theme:
 nav:
   - Home: "index.md"
   - Algemene Plaatselijke Verordening: "apv.md"
+  - Wetboek: "wetboekv2.md"
   - Onderwereld Regels: "onderwereld.md"
   - Overvallen: "overvallen.md"
-  - Wetboek: "wetboekv2.md"
 extra_css:
   - stylesheets/extra.css
