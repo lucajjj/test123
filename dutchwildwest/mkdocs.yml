@@ -24,5 +24,6 @@ nav:
   - Algemene Plaatselijke Verordening: "apv.md"
   - Onderwereld Regels: "onderwereld.md"
   - Overvallen: "overvallen.md"
+  - Wetboek: "wetboekv2.md"
 extra_css:
   - stylesheets/extra.css
