@@ -16,7 +16,8 @@ Bij het opstijgen dien je de motor rustig te laten opkomen totdat het landingsst
 
 Vliegtuig:
 Start de motor(en) van het vliegtuig, rij daarna rustig en realistisch via de taxibaan naar de startbaan. Zorg dat je aan het begin van de startbaan staat en laat de motor rustig opkomen, geef vervolgens volledig gas. Wanneer het vliegtuig op snelheid is laat je het vliegtuig rustig van de grond afzakken. Ga met een geleidelijke snelheid onder een hoek van 45° omhoog. Vlieg vervolgens onder deze hoek door tot een hoogte is bereikt van minimaal 450 meter. 
-2.3 Landen
+
+### 2.3 Landen
 Ook de landing dient rustig en zorgvuldig ingezet te worden. Land het voertuig rustig zodat het geen klap geeft zodra het met de grond in aanraking komt. Het landen is toegestaan op de volgende plaatsen.
 Helikopter: 
 1. Helikopterplatformen (uitgezonderd overheidsgebouwen).
