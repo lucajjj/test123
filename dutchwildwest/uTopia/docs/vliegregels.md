@@ -1,7 +1,8 @@
 Om een leuke en realistische roleplay ervaring te bieden in het luchtruim van Utopia hebben we enkele regels en richtlijnen opgesteld waaraan iedereen zich dient te houden. De belangrijkste maatstaf van het naleven van de regels is het gebruik maken van je gezonde verstand, zorg dat het realistisch gebeurt.
 
 ## 1 Algemeen
-1.1 Eigendom
+
+### 1.1 Eigendom
 Het is alleen toegestaan te vliegen in jouw eigen luchtvaartuig of als je toestemming hebt van de eigenaar.
 
 ## 2 Handelingen
