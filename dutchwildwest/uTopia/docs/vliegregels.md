@@ -43,7 +43,7 @@ Bij het opstijgen mogen geen burgers in de omgeving op de grond aanwezig zijn. N
 ### 2.5 Hinderen van vliegverkeer
 Het is niet toegestaan om ander luchtverkeer te hinderen met jouw luchtvaartuig. 
 
-## 2.6 Vliegen tot buiten de grens
+### 2.6 Vliegen tot buiten de grens
 Het vliegen tot buiten de grenzen van de map is niet toegestaan.
 
 ## 3 Communicatie
