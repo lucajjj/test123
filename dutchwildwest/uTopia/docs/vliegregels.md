@@ -18,8 +18,8 @@ Voorbeelden hiervan zijn: onder bruggen door vliegen en/of het gebruiken van je 
 
 Het opstijgen dient op een realistische manier te gebeuren. 
 Helikopter: 
-Bij het opstijgen dien je de motor rustig te laten opkomen totdat het landingsstel van de grond los raakt. Hierna volgt de opstijgprocedure.
-Bij het opstijgen dien je een lage snelheid te houden totdat je op veilige vlieghoogte bent en zo rustig kunt wegvliegen.
+- Bij het opstijgen dien je de motor rustig te laten opkomen totdat het landingsstel van de grond los raakt. Hierna volgt de opstijgprocedure.
+- Bij het opstijgen dien je een lage snelheid te houden totdat je op veilige vlieghoogte bent en zo rustig kunt wegvliegen.
 
 Vliegtuig:
 Start de motor(en) van het vliegtuig, rij daarna rustig en realistisch via de taxibaan naar de startbaan.
@@ -33,21 +33,21 @@ Vlieg vervolgens onder deze hoek door tot een hoogte is bereikt van minimaal 450
 Ook de landing dient rustig en zorgvuldig ingezet te worden.
 Land het voertuig rustig zodat het geen klap geeft zodra het met de grond in aanraking komt.
 Het landen is toegestaan op de volgende plaatsen.
-1. Helikopterplatformen (uitgezonderd overheidsgebouwen).
-2. Zandvlaktes/stranden mits vlak en voldoende ruimte.
-3. Grasvelden mits vlak en voldoende ruimte, in parken landen is verboden.
+- Helikopterplatformen (uitgezonderd overheidsgebouwen).
+- Zandvlaktes/stranden mits vlak en voldoende ruimte.
+- Grasvelden mits vlak en voldoende ruimte, in parken landen is verboden.
 
 Overheidsdiensten mogen landen op de volgende plaatsen:
-1. Alle landingsplekken voor burgers.
-2. Parken en sportvelden.
-3. Recreatie vlaktes.
-4. (Snel)wegen mits afgezet.
-5. Parkeerterreinen
+- Alle landingsplekken voor burgers.
+- Parken en sportvelden.
+- Recreatie vlaktes.
+- (Snel)wegen mits afgezet.
+- Parkeerterreinen
 
 Vliegtuig:
-1. Vliegvelden (start- & landingsbanen).
-2. Open water (enkel toegestaan met Dodo).
-3. Stranden mits vlak (enkel toegestaan met UltraLight).
+- Vliegvelden (start- & landingsbanen).
+- Open water (enkel toegestaan met Dodo).
+- Stranden mits vlak (enkel toegestaan met UltraLight).
 
 ### 2.4 Passagiers ophalen
 
