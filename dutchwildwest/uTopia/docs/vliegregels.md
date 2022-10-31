@@ -13,7 +13,8 @@ Het is alleen toegestaan te vliegen in jouw eigen luchtvaartuig of als je toeste
 
 Het is niet toegestaan onrealistische handelingen te verrichten met je luchtvaartuig.<br>
 Vlieg dus realistisch en verantwoord.<br>
-Voorbeelden hiervan zijn: onder bruggen door vliegen en/of het gebruiken van je wieken/propellers om anderen te verwonden.
+Voorbeelden hiervan zijn:<br>
+* Onder bruggen door vliegen en/of het gebruiken van je wieken/propellers om anderen te verwonden.
 
 ### 2.2 Opstijgen
 
