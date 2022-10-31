@@ -11,16 +11,16 @@ Het is alleen toegestaan te vliegen in jouw eigen luchtvaartuig of als je toeste
 
 ### 2.1 Onrealistisch vliegen (GTA-Style Flying)
 
-Het is niet toegestaan onrealistische handelingen te verrichten met je luchtvaartuig. Vlieg dus realistisch en verantwoord.
+Het is niet toegestaan onrealistische handelingen te verrichten met je luchtvaartuig.<br>
+Vlieg dus realistisch en verantwoord.<br>
 Voorbeelden hiervan zijn: onder bruggen door vliegen en/of het gebruiken van je wieken/propellers om anderen te verwonden.
 
 ### 2.2 Opstijgen
 
 Het opstijgen dient op een realistische manier te gebeuren. 
 Helikopter: 
-- Bij het opstijgen dien je de motor rustig te laten opkomen totdat het landingsstel van de grond los raakt. Hierna volgt de opstijgprocedure.
+- Bij het opstijgen dien je de motor rustig te lwaten opkomen totdat het landingsstel van de grond los raakt. Hierna volgt de opstijgprocedure.
 - Bij het opstijgen dien je een lage snelheid te houden totdat je op veilige vlieghoogte bent en zo rustig kunt wegvliegen.
-
 Vliegtuig:
 Start de motor(en) van het vliegtuig, rij daarna rustig en realistisch via de taxibaan naar de startbaan.
 Zorg dat je aan het begin van de startbaan staat en laat de motor rustig opkomen, geef vervolgens volledig gas.
