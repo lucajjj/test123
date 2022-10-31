@@ -163,9 +163,3 @@ Hiermee willen we voorkomen dat mensen pistolen en zware wapens rippen met een m
 • Agent ontvoeren mag alleen vanaf 6 agenten in dienst. Indien er tijdens de ontvoering opeens minder dan 6 agenten in dienst zijn, mag de RP worden afgemaakt.<br>
 • Wegrijden/negeren stopteken van de politie, zonder geldige reden, is instant 20K boete en 60 maanden cel.<br>
 • Dit mag de agent vanaf de plek aanhouding direct uitvoeren, hij/zij mag er uiteraard ook voor kiezen om de RP af te maken en je mee te nemen naar bureau.<br>
-
-## Regels voor staff:
-• Of je bent staff en je mag geen RP doen.<br>
-• Indien je inwoner bent, dan mag je onder geen beding je admin rechten gebruiken.<br>
-Ook niet als je denkt dat je alleen bent, of om je auto te fiksen.<br>
-• Ook mag je als staff nooit je eigen zaak behandelen, je maakt net als elke andere inwoner een report aanmaken en die laten behandelen door een staff.<br>

@@ -21,8 +21,7 @@ theme:
         name: Switch to light mode
 nav:
   - Home: "index.md"
-  - Algemene Plaatselijke Verordening: "apv.md"
-  - Wetboek: "wetboekv2.md"
+  - Server Regels: "apv.md"
   - Onderwereld Regels: "onderwereld.md"
   - Overvallen: "overvallen.md"
   - Luchtruim Regels: "vliegregels.md"
