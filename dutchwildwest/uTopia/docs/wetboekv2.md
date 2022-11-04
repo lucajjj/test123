@@ -1,4 +1,4 @@
-# Wetboek van uTopia RP
+# Wetboek van Utopia RP
 
 ### Geldigheid
 

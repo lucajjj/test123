@@ -7,10 +7,10 @@
 overlays of andere software die je voordelen geeft tegenover andere burgers.
 
 ### 1.2 Gedragscode
-- Beledigende, seksistische, racistische of grove taal; negatief gedrag ten opzichte van elke religie, ras, natie, geslacht, leeftijd of seksuele geaardheid; real-life bedreigingen; nadoen/imiteren van het UTOPIA staff team is ten strengste verboden.
+- Beledigende, seksistische, racistische of grove taal; negatief gedrag ten opzichte van elke religie, ras, natie, geslacht, leeftijd of seksuele geaardheid; real-life bedreigingen; nadoen/imiteren van het Utopia staff team is ten strengste verboden.
 
 ### 1.3 Alt-Accounts
-- Binnen UTOPIA staan we slechts 1 account toe, het gebruik van alt-accounts is niet toegestaan. Ook is het niet toegestaan om via andermans accounts starters geld te bemachtigen, accounts van vrienden vallen hier ook onder.
+- Binnen Utopia staan we slechts 1 account toe, het gebruik van alt-accounts is niet toegestaan. Ook is het niet toegestaan om via andermans accounts starters geld te bemachtigen, accounts van vrienden vallen hier ook onder.
 
 ### 1.4 Microfoon
 - Een goed werkende microfoon is verplicht als je de stad betreedt.
@@ -33,12 +33,12 @@ overlays of andere software die je voordelen geeft tegenover andere burgers.
 ### 1.10 Vliegen zonder brevet
 - Het is niet toegestaan om zonder vliegbrevet te vliegen in een helikopter of vliegtuig.
 
-### 1.11 Content maken op UTOPIA.
-Iedereen mag content maken op UTOPIA, maar hier zitten enkele regels aan vast.<br>
+### 1.11 Content maken op Utopia.
+Iedereen mag content maken op Utopia, maar hier zitten enkele regels aan vast.<br>
 - Het in beeld brengen van verborgen locaties in je stream/opname is verboden. (Bijvoorbeeld drugslocaties)<br>
 - Een voor je naam op Discord is tijdens het streamen/opnemen verplicht.<br>
-- De servernaam (UTOPIA) moet in de titel van de stream/video staan.<br>
-- Het is niet toegestaan een livestream/video van een ander te promoten tenzij deze ook op UTOPIA streamt/video's maakt.<br>
+- De servernaam (Utopia) moet in de titel van de stream/video staan.<br>
+- Het is niet toegestaan een livestream/video van een ander te promoten tenzij deze ook op Utopia streamt/video's maakt.<br>
 - Het maken van moord compilaties is niet toegestaan.<br>
 
 ## 2 - Roleplay Regels
