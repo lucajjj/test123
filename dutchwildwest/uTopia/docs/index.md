@@ -1,6 +1,6 @@
 # Utopia Regelgeving
 
-<img src="assets/Utopia.png" width="100" height="300">
+<img src="assets/utopia.png" width="100" height="300">
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
