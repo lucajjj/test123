@@ -159,7 +159,7 @@ Hiermee willen we voorkomen dat mensen pistolen en zware wapens rippen met een m
 
 
 • Samenwerken in GangWars mag niet, ook mag je niet met 1 of meerdere gangs, 1 andere gang aanpakken of opjagen.<br>
-• Agenten rippen mag niet. Je mag ze alleen beroven van illegale spullen die ze op zak hebben, of net in beslag hebben genomen.<br>
+• Agenten mogen onder geen enkele voorwaarden worden geript.<br>
 • Agent ontvoeren mag alleen vanaf 6 agenten in dienst. Indien er tijdens de ontvoering opeens minder dan 6 agenten in dienst zijn, mag de RP worden afgemaakt.<br>
 • Wegrijden/negeren stopteken van de politie, zonder geldige reden, is instant 20K boete en 60 maanden cel.<br>
 • Dit mag de agent vanaf de plek aanhouding direct uitvoeren, hij/zij mag er uiteraard ook voor kiezen om de RP af te maken en je mee te nemen naar bureau.<br>
