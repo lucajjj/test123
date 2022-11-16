@@ -133,7 +133,7 @@ Stemherkenning is toegestaan, een soundboard mag worden gebruikt als dit realist
 
 ### 6.7 Beroven van criminelen
 - Het beroven van criminelen is toegestaan, maar uitsluitend tot de inhoud van voertuigen en het overvalmenu. Tevens is het niet toegestaan om te campen op locaties. Let op: Je mag er dus wel overvallen, zolang er maar geen herhaling plaatsvindt in een korte periode.
-Een burger & crimineel mag te allen tijde worden overvallen.
+Een burger & crimineel mag te allen tijde worden overvallen (m.u.v. mensen die indienst zijn voor de ANWB, Politie, Ambulance & de Taxi).
 
 ### 6.8 Hit & Runs
 - Het is niet toegestaan om een hit & run te doen op bijv. een winkel/bank/ammunation. Zodra je een overval start ben je verplicht de roleplay aan te gaan met de Politie.
