@@ -144,10 +144,6 @@ Burgers dienen zorgvuldig om te gaan met hun eigendommen en beslissingen goed te
 Het staff-team zal toezicht houden en de bovenstaande regels handhaven.<br>
 Voor het overtreden van de regels staat een aantekening of waarschuwing afhankelijk van de situatie en de impact op het desbetreffende scenario.<br>
 
-### 6.10 Hostages en wapens tijdens overvallen
-Tijdens elke winkeloverval die jij pleegt, heb jij minimaal 1 hostage nodig en 1 mes/vuurwapen.
-Als jij een bankoverval gaat plegen, dan heb jij minimaal 2 hostages nodig én minimaal 1 vuurwapen.
-
 ## Aanvullende Regels
 • Rippen van inventory geld mag tot max. 150K.<br>
 • Je mag niet dwingen iemand geld over te maken naar je rekening.<br>
