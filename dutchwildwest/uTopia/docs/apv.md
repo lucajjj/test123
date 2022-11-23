@@ -63,7 +63,7 @@ Stemherkenning is toegestaan, een soundboard mag worden gebruikt als dit realist
 - Het wordt niet gebruikt in de omgeving van blokkenpark.<br>
 - Earrape of geluid/muziek welke in conflict is met de regels zijn niet toegestaan.<br>
 - Geluiden/fragmenten die afgespeeld worden moeten IC zijn.<br>
-- Stemvervorming is niet toegestaan.<br>
+- Stemvervorming is niet toegestaan. (m.u.v. Recherche, DSI, BSB en Justitiele medewerkers)<br>
 
 ### 2.5 Karakter breken
 - Je dient je karakter aan te houden en in je rol te blijven. De enige uitzondering op deze regel is wanneer je face-to-face met een staff-lid praat.<br>
