@@ -130,9 +130,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | €10000,-  |
-| **Tweede Veroordeling**  | 18 maanden  |  | €12500,-  |
-| **Meerdere Veroordelingen**  | 36 maanden  |   | €15000,-  |
+|  **Eerste Veroordeling** |   | 8 maanden  | €3500,-  |
+| **Tweede Veroordeling**  | 18 maanden  |  | €5000,-  |
+| **Meerdere Veroordelingen**  | 23 maanden  |   | €10000,-  |
 
 ### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
 
@@ -143,9 +143,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | €15000,-  |
-| **Tweede Veroordeling**  | 10 maanden  |  | €17500,-  |
-| **Meerdere Veroordelingen**  | 20 maanden  |   | €25000,-  |
+|  **Eerste Veroordeling** |   | 12  | €5000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |  | €6500,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |   | €12500,-  |
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
@@ -155,9 +155,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 36 maanden  |  | € 20000,-  |
-| **Tweede Veroordeling**  | 72 maanden  |  | € 25000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
+|  **Eerste Veroordeling** | 20 maanden  |  | € 10000,-  |
+| **Tweede Veroordeling**  | 30 maanden  |  | € 12500,-  |
+| **Meerdere Veroordelingen**  | 45 maanden  |  | € 15000,-  |
 
 ### Artikel I-4 Afpersing (317 SR)
 
@@ -166,9 +166,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 45 maanden  |  | € 7500,-  |
-| **Tweede Veroordeling**  | 72 maanden  |  | € 10000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 15000,-  |
+|  **Eerste Veroordeling** | 5 maanden  |  | € 2500,-  |
+| **Tweede Veroordeling**  | 10 maanden  |  | € 5000,-  |
+| **Meerdere Veroordelingen**  | 12 maanden  |  | € 8500,-  |
 
 ### Artikel I-5 Afdreiging / Chantage (318 SR)
 
@@ -177,9 +177,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden  |   | € 7500,-  |
-| **Tweede Veroordeling**  | 40 maanden  |   | € 10000,-  |
-| **Meerdere Veroordelingen**  | 90 maanden  |   | € 15000,-  |
+|  **Eerste Veroordeling** | 7 maanden  |   | € 3500,-  |
+| **Tweede Veroordeling**  | 12 maanden  |   | € 6000,-  |
+| **Meerdere Veroordelingen**  | 14 maanden  |   | € 9200,-  |
 
 ### Artikel I-6 Verduistering (321 SR)
 
@@ -187,9 +187,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 5000,-  |
-| **Tweede Veroordeling**  |   | 30 uur  | € 7500,-  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | € 10000,-  |
+|  **Eerste Veroordeling** |   | 5 maanden  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 10 maanden  | € 7500,-  |
+| **Meerdere Veroordelingen**  |   | 12 maanden  | € 10000,-  |
 
 ### Artikel I-7 Heling (416 SR)
 
@@ -199,9 +199,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 2000,-  |
-| **Tweede Veroordeling**  |   | 30 uur  | € 4000,-  |
-| **Meerdere Veroordelingen**  |   | 60 uur  | € 5000,-  |
+|  **Eerste Veroordeling** |   | 10 maanden  | € 2000,-  |
+| **Tweede Veroordeling**  |   | 12 maanden  | € 4000,-  |
+| **Meerdere Veroordelingen**  |   | 15 maanden  | € 5000,-  |
 
 ### Artikel I-8 Witwassen (420bis SR)
 
