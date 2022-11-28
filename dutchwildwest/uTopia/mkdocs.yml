@@ -25,5 +25,6 @@ nav:
   - Onderwereld Regels: "onderwereld.md"
   - Overvallen: "overvallen.md"
   - Luchtruim Regels: "vliegregels.md"
+  - Refund Regels: "refund.md"
 extra_css:
   - stylesheets/extra.css
