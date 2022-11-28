@@ -168,8 +168,8 @@ Het staff-team zal toezicht houden en de bovenstaande regels handhaven.<br>
 Voor het overtreden van de regels staat een aantekening of waarschuwing afhankelijk van de situatie en de impact op het desbetreffende scenario.<br>
 
 ### 7.0 Doden van persoon
-Je bent te allen tijde verplicht nadat jij persoon hebt vermoord, een reden te vertellen van de moord.
-Zonder deze reden te geven kan deze moord ongeldig worden verklaard.
+Je bent te allen tijde verplicht nadat jij persoon hebt vermoord, een reden te vertellen van de moord.<br>
+Zonder deze reden te geven kan deze moord ongeldig worden verklaard.<br>
 
 ## Aanvullende Regels
 • Rippen van inventory geld mag tot max. 150K.<br>
