@@ -209,9 +209,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden  |   | € 15000,-  |
-| **Tweede Veroordeling**  | 54 maanden  |  | € 20000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 25000,-  |
+|  **Eerste Veroordeling** | 15 maanden  |   | € 15000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |  | € 20000,-  |
+| **Meerdere Veroordelingen**  | 25 maanden  |  | € 25000,-  |
 
 ### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
