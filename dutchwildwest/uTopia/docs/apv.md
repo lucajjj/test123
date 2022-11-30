@@ -44,6 +44,9 @@ Iedereen mag content maken op Utopia, maar hier zitten enkele regels aan vast.<b
 - Het is niet toegestaan een livestream/video van een ander te promoten tenzij deze ook op Utopia streamt/video's maakt.<br>
 - Het maken van moord compilaties is niet toegestaan.<br>
 
+### 1.12 Reports maken tijdens een scenario.
+- Het is niet toegestaan om reports te maken tijdens een scenario.
+
 ## 2 - Roleplay Regels
 
 ### 2.1 Waarderen van je leven
