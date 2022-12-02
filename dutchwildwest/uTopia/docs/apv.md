@@ -48,10 +48,12 @@ Iedereen mag content maken op Utopia, maar hier zitten enkele regels aan vast.<b
 - Het is niet toegestaan om reports te maken tijdens een scenario.
 
 ### 1.13 Offroad Regels
-Vanaf heden mag je offroad rijden met offroad voertuigen of met voertuigen die voldoen aan de volgende kenmerken:<br>
+Offroad rijden is alleen toegestaan onder de volgende voorwaarden:<br>
+Voertuig is een echt offroad voertuig, denk aan een Rebel Raid, Volkswagen Amarok etc.<br>
+Daarnaast moet jouw voertuig aan de volgende eisen voldoen:<br>
 SUV voertuig met 4X4 of 6X6.<br>
 Offroad banden.<br>
-Stevig chassis.
+Stevig chassis.<br>
 Voertuig mag niet verlaagd zijn.<br>
 
 Vanaf heden mogen ook alle voertuigen over zandpaden rijden.<br>
