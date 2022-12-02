@@ -1,4 +1,3 @@
-### Offroad Regels
 Offroad rijden is alleen toegestaan onder de volgende voorwaarden:<br>
 Voertuig is een echt offroad voertuig, denk aan een Rebel Raid, Volkswagen Amarok etc.<br>
 Daarnaast moet jouw voertuig aan de volgende eisen voldoen:<br>
