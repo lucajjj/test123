@@ -47,6 +47,13 @@ Iedereen mag content maken op Utopia, maar hier zitten enkele regels aan vast.<b
 ### 1.12 Reports maken tijdens een scenario.
 - Het is niet toegestaan om reports te maken tijdens een scenario.
 
+### Offroad Regels
+Vanaf heden mag je offroad rijden met offroad voertuigen of met voertuigen die voldoen aan de volgende kenmerken:<br>
+SUV voertuig met 4X4 of 6X6.<br>
+Offroad banden.<br>
+Stevig chassis.
+Voertuig mag niet verlaagd zijn.<br>
+
 ## 2 - Roleplay Regels
 
 ### 2.1 Waarderen van je leven
