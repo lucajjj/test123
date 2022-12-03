@@ -174,6 +174,10 @@ Voor het overtreden van de regels staat een aantekening of waarschuwing afhankel
 Je bent te allen tijde verplicht nadat jij persoon hebt vermoord, een reden te vertellen van de moord.<br>
 Zonder deze reden te geven kan deze moord ongeldig worden verklaard.<br>
 
+### 7.1 Verplicht dragen van holster
+Vanaf nu ben jij verplicht een holster te dragen als jij een vuurwapen op zak draagt.
+Een SMG, AK of dergelijke bevestigd zich automatisch op je rug.
+
 ## Aanvullende Regels
 • Rippen van inventory geld mag tot max. 150K.<br>
 • Je mag niet dwingen iemand geld over te maken naar je rekening.<br>
