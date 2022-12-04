@@ -47,6 +47,9 @@ Iedereen mag content maken op Utopia, maar hier zitten enkele regels aan vast.<b
 ### 1.12 Reports maken tijdens een scenario.
 - Het is niet toegestaan om reports te maken tijdens een scenario.
 
+### 1.13
+- Het verhandelen van in-game items, voertuigen of dergelijke doormiddel van in real life money is niet toegestaan zonder toestemming van management en/of directie.<br>
+
 ## 2 - Roleplay Regels
 
 ### 2.1 Waarderen van je leven
