@@ -180,6 +180,7 @@ Zonder deze reden te geven kan deze moord ongeldig worden verklaard.<br>
 
 ### 7.1 Verplicht dragen van holster
 Vanaf nu ben jij verplicht een holster te dragen als jij een vuurwapen op zak draagt.<br>
+Dit holster moet zichtbaar worden gedragen op jouw kleding.<br>
 Een SMG, AK of dergelijke bevestigd zich automatisch op je rug.<br>
 
 ## Aanvullende Regels
