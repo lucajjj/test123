@@ -192,6 +192,7 @@ Met een Mes -> koevoet, mes rippen.<br>
 Met een pistool -> Koevoet, mes en pistool rippen.<br>
 Met een rifle -> Koevoet, mes, pistool en rifle rippen.<br>
 Hiermee willen we voorkomen dat mensen pistolen en zware wapens rippen met een mes.<br>
+Een agent mag alleen worden ontvoerd om deze te ontzien van informatie.<br>
 
 
 • Samenwerken in GangWars mag niet, ook mag je niet met 1 of meerdere gangs, 1 andere gang aanpakken of opjagen.<br>
