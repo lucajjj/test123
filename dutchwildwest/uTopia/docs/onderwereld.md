@@ -37,7 +37,7 @@ De reden dat dit gebeurd is dat er ook een einde komt aan een gangwar.<br>
 
 ### 2.1 Leden aantallen
 - Een verified of officiële gang moet tenminste uit 6 leden bestaan. Komt dit onder het minimum dan zal er eerst een gesprek plaatsvinden om naar een oplossing te zoeken.<br>
-- Gangs zijn beperkt tot een maximum aantal leden van vijftien (15).<br>
+- Gangs zijn beperkt tot een maximum aantal leden van twintig (20).<br>
 
 ### 2.2 Leidinggevende aantallen
 - Gang leidinggevende, kenbaar aan het sterretje zijn beperkt tot een maximum aantal van drie(3).<br>
