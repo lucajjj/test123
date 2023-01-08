@@ -53,6 +53,9 @@ Indien je voor een grootschalige RP hulp nodig heb van een andere gang voor een 
 - Wanneer een lid een officiële gang verlaat treed er een new life rule in werking, ook wanneer je nog leeft.<br>
 Ook is het niet de bedoeling om de informatie door te geven aan vrienden of overheidsdiensten als bijvoorbeeld de politie.<br>
 
+De New Life Rule gaat van start zodra het ontslag is getekend in het ontslag kanaal in de onderwereld.<BR>
+Men kan zelf de keuze maken om iemand uit de gang te zetten, door hem/haar te vermoorden & daarna het ontslag te tekenen in het ontslag kanaal.<BR>
+
 Je bent niet meer op de hoogte van de volgende informatie:<br>
 - Voor - Achternaam van groep leden<br>
 - Telefoonnummers van de groepering of directe contacten<br>
