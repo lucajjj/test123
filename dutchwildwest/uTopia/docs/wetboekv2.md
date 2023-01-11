@@ -187,9 +187,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 5 maanden  | € 5000,-  |
-| **Tweede Veroordeling**  |   | 10 maanden  | € 7500,-  |
-| **Meerdere Veroordelingen**  |   | 12 maanden  | € 10000,-  |
+|  **Eerste Veroordeling** | 5 maanden  |   | € 5000,-  |
+| **Tweede Veroordeling**  | 10 maanden  |   | € 7500,-  |
+| **Meerdere Veroordelingen**  | 12 maanden |   | € 10000,-  |
 
 ### Artikel I-7 Heling (416 SR)
 
@@ -199,9 +199,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 maanden  | € 2000,-  |
-| **Tweede Veroordeling**  |   | 12 maanden  | € 4000,-  |
-| **Meerdere Veroordelingen**  |   | 15 maanden  | € 5000,-  |
+|  **Eerste Veroordeling** | 10 maanden |  | € 2000,-  |
+| **Tweede Veroordeling**  | 12 maanden |   | € 4000,-  |
+| **Meerdere Veroordelingen**  | 15 maanden |  | € 5000,-  |
 
 ### Artikel I-8 Witwassen (420bis SR)
 
