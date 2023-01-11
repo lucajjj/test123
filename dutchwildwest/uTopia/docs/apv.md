@@ -98,7 +98,8 @@ Laat ze hun eigen pad en loopbaan ontdekken.<br>
 - Een overheidsbaan is een voorrecht dat niet misbruikt mag worden.<br>
 Om misbruik te voorkomen zoals, maar niet beperkt tot het uitdelen van Politie vuurwapens, het doen reviven van vrienden terwijl een ambulancier buiten dienst is of het repareren van auto's terwijl hij niet in dienst is als ANWB.<br>
 
-### 3.3 Corruptie bij Politie is niet toegestaan
+### 3.3 Corruptie binnen de hulpdiensten.
+- Corruptie is onder geen enkele voorwaarde toegestaan.
 
 ### 3.4 Gijzelen van hulpdiensten
 - Het gijzelen van hulpdiensten is niet toegestaan om deze vervolgens te gebruiken als onderhandelingsmiddel bij een overval.<br>
