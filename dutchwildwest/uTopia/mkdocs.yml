@@ -27,5 +27,6 @@ nav:
   - Luchtruim Regels: "vliegregels.md"
   - Refund Regels: "refund.md"
   - Offroad Regels: "offroad.md"
+  - Donatie Regels: "lootbox.md"
 extra_css:
   - stylesheets/extra.css
