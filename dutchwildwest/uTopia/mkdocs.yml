@@ -22,6 +22,7 @@ theme:
 nav:
   - Home: "index.md"
   - Server Regels: "apv.md"
+  - Het Wetboek: "wetboekv2.md"
   - Onderwereld Regels: "onderwereld.md"
   - Overvallen: "overvallen.md"
   - Luchtruim Regels: "vliegregels.md"
