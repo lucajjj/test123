@@ -202,3 +202,6 @@ Een agent mag alleen worden ontvoerd om deze te ontzien van informatie.<br>
 • Wegrijden/negeren stopteken van de politie, zonder geldige reden, is instant 20K boete en 60 maanden cel.<br>
 • Dit mag de agent vanaf de plek aanhouding direct uitvoeren, hij/zij mag er uiteraard ook voor kiezen om de RP af te maken en je mee te nemen naar bureau.<br>
 • Ieder persoon mag zich voor doen als advocaat, mits deze geen strafblad heeft. De agent heeft wel de mogelijkheid om je weg te sturen bij het aantreffen van illegale goederen of als jij een strafblad hebt.
+
+## Aantal staff leden per gang.
+Momenteel hanteert Utopia een maximum van vier staff leden per gang.
