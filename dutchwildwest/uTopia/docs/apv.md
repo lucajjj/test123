@@ -59,6 +59,7 @@ Iedereen mag content maken op Utopia, maar hier zitten enkele regels aan vast.<b
 |  Overheidsbaan | Overheidsbaan |  7 kalenderdagen  |
 
 * Criminele organisatie = een officiele gang & verified gang.
+* Als de kalenderdagen van start zijn gegaan mag jij niet samenwerken met een officiele en/of verified gang.
 
 ## 2 - Roleplay Regels
 
