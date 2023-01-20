@@ -52,7 +52,7 @@ Iedereen mag content maken op Utopia, maar hier zitten enkele regels aan vast.<b
 
 ### 1.14 Jobhoppen
 | Van | Naar  | Wachttijd  |
-|---|---|---|---|
+|---|---|---|
 |  Criminele organisatie | Criminele organisatie  |  4 kalenderdagen  |
 |  Criminele organisatie | Overheidsbaan  |  4 kalenderdagen  |
 |  Overheidsbaan | Criminele organisatie  |  4 kalenderdagen  |
