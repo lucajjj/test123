@@ -51,7 +51,7 @@ Iedereen mag content maken op Utopia, maar hier zitten enkele regels aan vast.<b
 - Het verhandelen van in-game items, voertuigen of dergelijke doormiddel van in real life money is niet toegestaan zonder toestemming van management en/of directie.<br>
 
 ### 1.14 Jobhoppen
-| Van | Naar  | Wachttijd  |
+|  Van  |  Naar  |  Wachttijd  |
 |---|---|---|
 |  Criminele organisatie | Criminele organisatie  |  4 kalenderdagen  |
 |  Criminele organisatie | Overheidsbaan  |  4 kalenderdagen  |
