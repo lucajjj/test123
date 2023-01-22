@@ -24,7 +24,6 @@ Ook is het niet toegestaan om via andermans accounts starters geld te bemachtige
 
 ### 1.7 Vehicle Deathmatch (VDM)
 - Je voertuig als wapen gebruiken om bijvoorbeeld burgers te verwonden of te vermoorden is niet toegestaan.<br>
-Pitten met je voertuig is ook niet toegestaan, de politie mag daarentegen wel pitten.<br>
 Ongevallen die per ongeluk veroorzaakt zijn vallen hier niet onder.<br>
 
 ### 1.8 Onrealistisch rijden (GTA-Style Driving)
