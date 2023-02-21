@@ -14,7 +14,7 @@ Hieronder vallen ook overlays of andere software die je voordelen geeft tegenove
 Ook is het niet toegestaan om via andermans accounts starters geld te bemachtigen, accounts van vrienden vallen hier ook onder.<br>
 
 ### 1.4 Microfoon
-- Een goed werkende microfoon is verplicht als je de stad betreedt.
+- Een goed werkende microfoon is verplicht als je de stad betreedt. blabla
 
 ### 1.5 Away from Keyboard (AFK)
 - Ga niet AFK voor periodes langer dan tien minuten. Indien je AFK gaat doe dit dan op een plek waar niemand een roleplay scenario met je kan aangaan.<br>
