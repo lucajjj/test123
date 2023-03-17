@@ -29,6 +29,7 @@ Ongevallen die per ongeluk veroorzaakt zijn vallen hier niet onder.<br>
 
 ### 1.8 Onrealistisch rijden (GTA-Style Driving)
 - Zorg dat je altijd realistisch en verantwoord rijd. Offroad is toegestaan, als het realistisch gebeurt.<br>
+- Alba on top
 
 ### 1.9 Uitloggen/Combat logging in een scenario
 - Het uitloggen in een scenario is niet toegestaan ook wanneer je bewusteloos of dood bent.<br>
