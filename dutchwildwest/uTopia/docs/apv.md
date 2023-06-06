@@ -172,7 +172,8 @@ Wanneer je een scenario met een Ambulancier aangaat, dien je realistisch en eerl
 Je mag deze pas weer doorgeven/opbergen als het scenario voorbij is, dit geldt ook voor scenario’s met de Ambulance.<br>
 
 ### 6.7 Beroven van criminelen
-- Het beroven van criminelen is toegestaan, maar uitsluitend tot de inhoud van voertuigen en het overvalmenu. Tevens is het niet toegestaan om te campen op locaties.<br>
+- Het beroven van criminelen is toegestaan, maar uitsluitend tot de inhoud van voertuigen en het overvalmenu. Tevens is het niet toegestaan om te campen op locaties. toevoeging: Korps mag in het kader van een onderzoek wel posten op 1 locatie voor een langere periode.
+<br>
 Let op: Je mag er dus wel overvallen, zolang er maar geen herhaling plaatsvindt in een korte periode.<br>
 Tevens mag jij persoon niet vermoorden, nadat jij hem/haar hebt geript. Je zult dus een keuze moeten maken tussen rippen of doden.<br>
 Een burger & crimineel mag alleen overvallen worden mits deze een holster, masker of een vuurwapen op de rug draagt.<br>
